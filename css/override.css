@@ -67,3 +67,15 @@ hr {
   position: relative;
   top: 0px;
 }
+
+.footer-heading {
+  display: none;
+}
+
+.post-list-heading {
+  display: none;
+}
+
+.rss-subscribe {
+  display: none;
+}

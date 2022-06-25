@@ -3,6 +3,17 @@ hr {
   margin-bottom: 20px;
 }
 
+.site-header {
+  background-color: #eeeeff;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
@@ -14,7 +25,7 @@ hr {
 }
 
 .post_navi .post_navi-item {
-  padding: 0 2.2em;
+  padding: 0;
   width: 50%;
   position: relative;
   color: inherit !important;
@@ -42,4 +53,17 @@ hr {
   transform: translateY(-50%);
   font-size: 2.5em;
   opacity: 0.3;
+}
+
+.post-header {
+  margin-bottom: 0px;
+}
+
+.post-content {
+  margin-top: 20px;
+}
+
+.share-links {
+  position: relative;
+  top: 0px;
 }

@@ -4,9 +4,13 @@ hr {
 }
 
 .site-header {
-  background-color: #eeeeff;
+  background-color: rgba(83, 83, 83, 0.72);
   border-top: 1px solid black;
   border-bottom: 1px solid black;
+}
+
+.site-title, .site-title:visited, .page-link, .page-link:visited {
+  color: #facccc;
 }
 
 .wrapper {
@@ -78,4 +82,13 @@ hr {
 
 .rss-subscribe {
   display: none;
+}
+
+.page-content {
+  padding-top: 20px;
+}
+
+.post-list {
+  padding: 20px;
+  border: 1px solid black;
 }

@@ -1,3 +1,3 @@
 # My JupyterLite
 
-https://bachmitre.github.io/jupyterlite/
+Click [here](https://bachmitre.github.io/jupyterlite/) to get to my JupyterLite setup.
